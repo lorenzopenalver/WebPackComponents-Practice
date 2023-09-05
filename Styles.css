@@ -1,0 +1,15 @@
+html{
+    background-color: #0b0f1f;
+ 
+}
+*{
+    box-sizing: border-box;
+}
+.primera{
+    --background-nike: #202e7a;
+    --nike-title: #414b93;
+    --text-container-background: #ca4c4c;
+    --title-text-size: 30px;
+    --secondary-text-color: #a91ecc94;
+    --buy-now-color: #60ce17;
+}
